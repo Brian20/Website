@@ -1,0 +1,22 @@
+body {
+      background-repeat: no-repeat;
+      text-align: center;
+      background: url("http://ak.picdn.net/shutterstock/videos/1245118/preview/stock-footage-soccer-ball-background.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: Times;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: Red;
+      color: Black;
+    }
+    @media screen and (max-width: 400px) {}
